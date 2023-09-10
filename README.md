@@ -1,24 +1,29 @@
-### Olá, Seja bem vindo ao meu perfil ✌🏻
+# Olá, eu sou o Matheus 👋🏻
 
-[![Blog](https://img.shields.io/website?label=meuporfolio&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com
-)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/reinheimermat
-)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/reinheimer_mat/
-)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](https://www.instagram.com/reinheimer_mat/
-)
+*"Desde que me apaixonei pela área da programação, 
+venho estudando diariamente para conseguir minha primeira 
+oportunidade. Tenho facilidade de aprendizado, boa 
+comunicação e sempre buscando me aprimorar mais."*
 
+### Técnologias que estou estudando ⬇️
+<div style="display: inline_block">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=reinheimermat&show_icons=true&theme=tokyonight)
+<br>
 
-## Tecnologias que estou aprendendo
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=reinheimermat&show_icons=true&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinheimermat&layout=compact&theme=dracula"/>
 
-[![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
-[![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
-[![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
-[![react](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#)
+<div>
+
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](contatoreinheimer@gmail.com)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reinheimermat/)
+[![portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://reinheimermat.github.io/portfolio/)
+
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=reinheimermat&bg_color=282a36&color=6272a4&line=bd93f9&point=50fa7b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
