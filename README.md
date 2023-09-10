@@ -15,8 +15,7 @@ comunicação e sempre buscando me aprimorar mais."*
 
 <br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=reinheimermat&show_icons=true&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinheimermat&layout=compact&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=reinheimermat&show_icons=true&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinheimermat&layout=compact&theme=dracula"/>
 
 <div>
 
