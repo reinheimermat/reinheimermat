@@ -1,16 +1,17 @@
-# Olá, eu sou o Matheus 👋🏻
+# HI!, I'm Matheus 👋🏻
 
-*"Desde que me apaixonei pela área da programação, 
-venho estudando diariamente para conseguir minha primeira 
-oportunidade. Tenho facilidade de aprendizado, boa 
-comunicação e sempre buscando me aprimorar mais."*
+*"Studying web development since 2020,
+honing my skills in creating modern websites.<br>
+<br>I have focused my studies on front-end development, developing with technologies such as: React, Sass, Bootstrap and JavaScript."*
 
-### Técnologias que estou estudando ⬇️
+### Skills ⬇️
 <div style="display: inline_block">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+
+    
 </div>
 
 <br>
