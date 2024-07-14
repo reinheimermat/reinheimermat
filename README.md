@@ -6,18 +6,18 @@ honing my skills in creating modern websites.<br>
 
 ### Skills
 
-![TypeScript](https://img.shields.io/badge/TypeScript-09090B?style=for-the-badge&logo=typescript&logoColor=BEF264)
-![Javascript](https://img.shields.io/badge/JavaScript-09090B?style=for-the-badge&logo=javascript&logoColor=BEF264)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=BEF264)
-![CSS](https://img.shields.io/badge/CSS-09090B?&style=for-the-badge&logo=css3&logoColor=BEF264)
-![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-09090B?style=for-the-badge&logo=tailwind-css&logoColor=BEF264)
-![HTML](https://img.shields.io/badge/HTML-09090B?style=for-the-badge&logo=html5&logoColor=BEF264)
-![Figma](https://img.shields.io/badge/Figma-09090B?style=for-the-badge&logo=figma&logoColor=BEF264)
+![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=for-the-badge&logo=typescript&logoColor=BEF264)
+![Javascript](https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&logo=javascript&logoColor=BEF264)
+![React](https://img.shields.io/badge/React-18181B?style=for-the-badge&logo=react&logoColor=BEF264)
+![CSS](https://img.shields.io/badge/CSS-18181B?&style=for-the-badge&logo=css3&logoColor=BEF264)
+![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-18181B?style=for-the-badge&logo=tailwind-css&logoColor=BEF264)
+![HTML](https://img.shields.io/badge/HTML-18181B?style=for-the-badge&logo=html5&logoColor=BEF264)
+![Figma](https://img.shields.io/badge/Figma-18181B?style=for-the-badge&logo=figma&logoColor=BEF264)
 
 ### Learning
 
-![Node JS](https://img.shields.io/badge/Node.js-09090B?style=for-the-badge&logo=node.js&logoColor=BEF264)
-![Next JS](https://img.shields.io/badge/Next-09090B?style=for-the-badge&logo=next.js&logoColor=BEF264)
+![Node JS](https://img.shields.io/badge/Node.js-18181B?style=for-the-badge&logo=node.js&logoColor=BEF264)
+![Next JS](https://img.shields.io/badge/Next-18181B?style=for-the-badge&logo=next.js&logoColor=BEF264)
 
 
 <!-- ### Skills ⬇️
