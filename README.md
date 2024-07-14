@@ -1,10 +1,15 @@
-# HI!, I'm Matheus 👋🏻
+<img  
+  alt="Js" 
+  height="30" 
+  width="100%" 
+  src="public/banner.jpg"
+>
 
 *"Studying web development since 2020,
 honing my skills in creating modern websites.<br>
 <br>I have focused my studies on front-end development, developing with technologies such as: React, Sass, Bootstrap and JavaScript."*
 
-### Skills ⬇️
+<!-- ### Skills ⬇️
 <div style="display: inline_block">
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -26,4 +31,4 @@ honing my skills in creating modern websites.<br>
 
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=reinheimermat&bg_color=282a36&color=6272a4&line=bd93f9&point=50fa7b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=reinheimermat&bg_color=282a36&color=6272a4&line=bd93f9&point=50fa7b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
