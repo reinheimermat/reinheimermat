@@ -1,13 +1,24 @@
-<img  
-  alt="Js" 
-  height="30" 
-  width="100%" 
-  src="public/banner.jpg"
->
+[![Banner](./public/banner.jpg)](#)
 
 *"Studying web development since 2020,
 honing my skills in creating modern websites.<br>
 <br>I have focused my studies on front-end development, developing with technologies such as: React, Sass, Bootstrap and JavaScript."*
+
+### Skills
+
+![TypeScript](https://img.shields.io/badge/TypeScript-27272A?style=for-the-badge&logo=typescript&logoColor=BEF264)
+![Javascript](https://img.shields.io/badge/JavaScript-27272A?style=for-the-badge&logo=javascript&logoColor=BEF264)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=BEF264)
+![CSS](https://img.shields.io/badge/CSS-27272A?&style=for-the-badge&logo=css3&logoColor=BEF264)
+![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-27272A?style=for-the-badge&logo=tailwind-css&logoColor=BEF264)
+![HTML](https://img.shields.io/badge/HTML-27272A?style=for-the-badge&logo=html5&logoColor=BEF264)
+![Figma](https://img.shields.io/badge/Figma-27272A?style=for-the-badge&logo=figma&logoColor=BEF264)
+
+### Learning
+
+![Node JS](https://img.shields.io/badge/Node.js-27272A?style=for-the-badge&logo=node.js&logoColor=BEF264)
+![Next JS](https://img.shields.io/badge/Next-27272A?style=for-the-badge&logo=next.js&logoColor=BEF264)
+
 
 <!-- ### Skills ⬇️
 <div style="display: inline_block">
