@@ -1,31 +1,46 @@
-[![Banner](./public/banner.jpg)](#)
+# Hi, I'm Matheus 👋
 
-*"Studying web development since 2020,
-honing my skills in creating modern websites.<br>
-<br>I have focused my studies on front-end development, developing with technologies such as: React, Sass, Bootstrap and JavaScript."*
+![Banner](./public/banner.png)
 
-### Skills
+Frontend Developer, specialized in **React.js**.
+Working professionally with **React.js** since 2023, improving application's layout and API integrations and have experience developing e-commerce websites with React.js/Next.js.
+Everything is covered with responsive layout, using components libraries improving accessibility, **Tailwind CSS**, **Typescript**, **GIT**, **Storybook** and modern libraries.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=for-the-badge&logo=typescript&logoColor=BEF264)
-![Javascript](https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&logo=javascript&logoColor=BEF264)
-![React](https://img.shields.io/badge/React-18181B?style=for-the-badge&logo=react&logoColor=BEF264)
-![CSS](https://img.shields.io/badge/CSS-18181B?&style=for-the-badge&logo=css3&logoColor=BEF264)
-![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-18181B?style=for-the-badge&logo=tailwind-css&logoColor=BEF264)
-![HTML](https://img.shields.io/badge/HTML-18181B?style=for-the-badge&logo=html5&logoColor=BEF264)
-![Figma](https://img.shields.io/badge/Figma-18181B?style=for-the-badge&logo=figma&logoColor=BEF264)
+### Technical Abilities
 
-### Learning
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-![Node JS](https://img.shields.io/badge/Node.js-18181B?style=for-the-badge&logo=node.js&logoColor=BEF264)
-![Next JS](https://img.shields.io/badge/Next-18181B?style=for-the-badge&logo=next.js&logoColor=BEF264)
+### Libs
 
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+
+### Tools
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Social
 
-![Gmail](https://img.shields.io/badge/Gmail-18181B?style=for-the-badge&logo=gmail&logoColor=BEF264)
-![Instagram](https://img.shields.io/badge/Instagram-18181B?style=for-the-badge&logo=Instagram&logoColor=BEF264)
-![Portfolio](https://img.shields.io/badge/My_Portfolio-18181B?style=for-the-badge&logo=GoogleChrome&logoColor=BEF264)
-
-<br>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=reinheimermat&bg_color=09090B&color=A1A1AA&line=FAFAFA&point=BEF264&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Gmail](https://img.shields.io/badge/Gmail-fff?style=for-the-badge&logo=gmail&logoColor=000)](mailto:mreinheimer0@gmail.com)
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-fff?style=for-the-badge&logo=GoogleChrome&logoColor=000)](https://matheus-reinheimer.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/linkedin-ffffff.svg?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/reinheimermat)
